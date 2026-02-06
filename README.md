@@ -26,3 +26,11 @@
 ## Быстрый обзор проекта
 Краткое резюме проекта (1 страница, PDF):
 - [Summary_Sales_Analysis_Excel.pdf](Summary/Summary_Sales_Analysis_Excel.pdf)
+
+## Key visuals (Excel screenshots)
+
+### Performance by managers
+![Managers performance](Materials/Pivot_Managers.png)
+
+### Sales dynamics
+![Sales dynamics](Materials/Sales_Dynamics.png)
