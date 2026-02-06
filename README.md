@@ -30,8 +30,11 @@
 ## Key visuals (Excel screenshots)
 
 ### Performance by managers
+Сравнение ключевых показателей по менеджерам: выручка, количество счетов и активность, что позволяет оценить относительную эффективность сотрудников.
 ![Performance by managers](Materials/Materials_Pivot_Managers.png)
 
 ### Sales dynamics
+Подготовка и агрегирование данных по периодам для последующего анализа динамики продаж и загрузки.
 ![Sales dynamics](Materials/Materials_Sales_Dynamics.png)
+
 
