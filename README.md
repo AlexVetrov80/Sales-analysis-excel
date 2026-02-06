@@ -30,7 +30,7 @@
 ## Key visuals (Excel screenshots)
 
 ### Performance by managers
-![Managers performance](Materials/Pivot_Managers.png)
+![Managers performance](Materials_Pivot_Managers.png)
 
 ### Sales dynamics
-![Sales dynamics](Materials/Sales_Dynamics.png)
+![Sales dynamics](Materials_Sales_Dynamics.png)
